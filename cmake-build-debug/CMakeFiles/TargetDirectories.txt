@@ -1,0 +1,3 @@
+C:/Sprite WINAPI/cmake-build-debug/CMakeFiles/Sprite_WINAPI.dir
+C:/Sprite WINAPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Sprite WINAPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

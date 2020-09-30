@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Sprite WINAPI/FloatingImage.h
+windows.h
+-
+gdiplus.h
+-
+FloatingImage.h
+C:/Sprite WINAPI/FloatingImage.h
+
+C:/Sprite WINAPI/main.cpp
+iostream
+-
+windows.h
+-
+gdiplus.h
+-
+FloatingImage.h
+C:/Sprite WINAPI/FloatingImage.h
+
