@@ -1,6 +1,5 @@
 #include <windows.h>
 #include <gdiplus.h>
-#include "FloatingImage.h"
 
 class FloatingImage {
 public:
@@ -21,6 +20,3 @@ public:
         Gdiplus::Graphics(hdc).DrawImage(image, Gdiplus::Rect(position.x, position.y, size.cx, size.cy));
     }
 };
-
-
-#endif
